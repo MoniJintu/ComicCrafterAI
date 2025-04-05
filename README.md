@@ -7,6 +7,8 @@ A React application which uses  an API to generate 10 comic images from text pro
 A screenshot of an example comic generation:
 ![Screenshot from 2023-11-27 09-11-59](https://github.com/rashmigr01/comic-creator/assets/77162931/26b7e25f-9e28-4671-af3a-660340a12eeb)
 
+## INTRODUCTION 
+ComicCrafter AI is a generative AI-based comic creation tool designed to run entirely on local edge devices. It empowers users to bring their stories to life in a comic-style format using simple text prompts .By leveraging on-device AI capabilities, ComicCrafter AI ensures faster generation times, enhanced privacy, and full creative control, making it an ideal solution for storytellers, hobbyists, and comic enthusiasts who want to generate content anytime, anywhere.
 ## Tech Stack
 
 To implement the application, the following tech was used:
@@ -131,3 +133,10 @@ The following steps are part of the user flow on the comic creator:
 - Repeat the above steps to create more comics.
 ## Acknowledgements
 
+We would also like to acknowledge  hugging face Large Language Model, which is central to our project.
+
+Special thanks to the open-source and educational AI communities for their continued inspiration and innovation.
+
+## Team Member
+
+1. Jintu moni nath 
