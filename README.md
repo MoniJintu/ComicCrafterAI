@@ -139,4 +139,4 @@ Special thanks to the open-source and educational AI communities for their conti
 
 ## Team Member
 
-1. Jintu moni nath 
+- [Jintu Moni Nath](https://github.com/MoniJintu) 
